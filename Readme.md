@@ -1,4 +1,8 @@
-# Nodejs FES Template
+# Nodejs OTP Authentication (Twilio and Typescript)
+
+# Pre-requisites
+
+- Install [Node.js](https://nodejs.org/en/) version 8.0.0
 
 # Environment vars
 
@@ -12,10 +16,6 @@ This project uses the following environment variables:
 | TWILIO_PHONE_NUMBER | Twilio Trial Number        | "\*"          |
 | TWILIO_SERVICE_SID  | Twilio Message Service SID | "\*"          |
 | JWT_SECRET          | JWT Authentication secret  | "\*"          |
-
-# Pre-requisites
-
-- Install [Node.js](https://nodejs.org/en/) version 8.0.0
 
 # Getting started
 
